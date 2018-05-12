@@ -1,0 +1,35 @@
+_repo: Le-Livre-des-M-res-et-des-Enfants-Tome-I_14258
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Desbordes-Valmore, Marceline
+    aliases:
+    - Desbordes-Valmore, Marceline Felicite Josephe
+    - Desbordes-Valmore, Marceline Félicité Josèphe
+    birthdate: 1786
+    deathdate: 1859
+    gutenberg_agent_id: '5436'
+    url: http://www.gutenberg.org/2009/agents/5436
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Marceline_Desbordes-Valmore
+    - http://fr.wikipedia.org/wiki/Marceline_Desbordes-Valmore
+description: ''
+gutenberg_bookshelf: FR Jeunesse
+gutenberg_issued: '2004-12-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14258'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories, French'
+- !lcsh 'Children''s poetry, French'
+- !lcc 'PZ'
+- !lcc 'PQ'
+title: Le Livre des Mères et des Enfants, Tome I
+url: http://www.gutenberg.org/ebooks/14258
