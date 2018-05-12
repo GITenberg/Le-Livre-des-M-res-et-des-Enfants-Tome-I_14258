@@ -17,6 +17,8 @@ creator:
     - http://en.wikipedia.org/wiki/Marceline_Desbordes-Valmore
     - http://fr.wikipedia.org/wiki/Marceline_Desbordes-Valmore
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14258#Le-Livre-des-M-res-et-des-Enfants-Tome-I
 gutenberg_bookshelf: FR Jeunesse
 gutenberg_issued: '2004-12-04'
 gutenberg_type: Text
